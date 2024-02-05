@@ -45,6 +45,9 @@ Again, use quotes around the output folder path if it contains spaces.
 
 Once you've provided all the required information, SPLIT will start processing the file. Sit back and wait for the process to complete.
 
+![image](https://github.com/kamrullab/split/assets/128359757/05ec2f7b-a0fa-47dc-b611-4d84e2189518)
+
+
 ### Conclusion
 
 Congratulations! You've successfully used SPLIT to split a large file into smaller segments. If you encounter any issues or have additional questions, refer to the documentation or reach out to our support team for assistance.
